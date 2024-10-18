@@ -6,7 +6,7 @@ public class inicial {
 System.out.println("inicial");
 System.out.println("suma");
 System.out.println("resta");
-System.out.println("multiplicacion");
+
 	}
 
 }
